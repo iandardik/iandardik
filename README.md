@@ -1,3 +1,5 @@
 ### Ian Dardik
 
-I am an MCSC student at Northeastern University.  I am currently working Professor Stavros Tripakis' lab in Formal Methods.
+I am a Software Engineering PhD student at Carnegie Mellon University.
+
+https://iandardik.github.io/
